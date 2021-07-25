@@ -1,3 +1,0 @@
-PCBENV/
-target/
-cdssetup/
